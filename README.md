@@ -1,6 +1,6 @@
 # IMDB-review-sentiment-analysis
 
-Done as a part of machine test by ziya academy for an AI - ML role
+Done as a part of machine test by ziya academy for AI - ML role
 
 ----  Task Details  ----
 
